@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CN Ham Decoder",
+  "description": "中国业余无线电呼号解码工具，支持省份解析、电台分类以及基于分配规则的发证顺位计算。",
+  "requestFramePermissions": []
+}
