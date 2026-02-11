@@ -27,6 +27,9 @@
 
 ## 🚀 Quick Start
 
+👉 Open `standalone.html` directly in your browser.  
+No build, no dependencies required.
+
 ### Live Demo
 Visit [Demo Link](#) (replace with actual link) to experience the full functionality.
 
